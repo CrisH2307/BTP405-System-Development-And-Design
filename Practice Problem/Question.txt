@@ -1,0 +1,21 @@
+
+1. Write a Python program to print "Hello, World!".
+2. Write a program to add two numbers entered by the user.
+3. Write a Python program to check if a number is even or odd.
+4. Create a function that takes a list of numbers as input and returns the sum of all the numbers.
+5. Write a program to find the largest element in a list.
+6. Write a Python program to check if a string is a palindrome.
+7. Create a function that takes a string as input and returns the reverse of that string.
+8. Write a program to count the number of vowels in a string.
+9. Create a Python dictionary containing your friends' names and their ages. Write a program to print the name of the oldest friend.
+10. Write a Python program to find the factorial of a number using recursion.
+11. Write a function to check if a given year is a leap year or not.
+12. Write a program to find all prime numbers within a specified range.
+13. Create a Python class representing a Rectangle with methods to calculate its area and perimeter.
+14. Write a program to sort a list of integers using the bubble sort algorithm.
+15. Implement a function to generate Fibonacci sequence up to n terms.
+16. Write a Python program to find the GCD (Greatest Common Divisor) of two numbers.
+17. Implement a function to calculate the exponentiation of a number using recursion.
+18. Write a program to find all possible permutations of a given list of elements.
+19. Create a Python class representing a Stack with methods for push, pop, and peek operations.
+20. Write a program to implement binary search algorithm on a sorted list.
